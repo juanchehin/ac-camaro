@@ -2,8 +2,8 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackContext, filters
 
 # Configuración
-TOKEN = '7682534869:AAHH6zQIPgk8EvQQAJs8268f_bq9mPuBbHA'
-GROUP_ID = -1001234567890  # Reemplaza con el ID de tu grupo/canal
+TOKEN = '7545556'
+GROUP_ID = -1  # Reemplaza con el ID de tu grupo/canal
 MIN_DEPOSIT = 50  # Depósito mínimo requerido
 PROCESSED_USERS = set()  # Para evitar duplicados
 
